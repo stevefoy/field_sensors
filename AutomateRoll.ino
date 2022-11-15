@@ -6,6 +6,11 @@ DFRobot_RGBLCD lcd(16,2);  //16 characters and 2 lines of show
 void setup() {
     // initialize
     lcd.init();
+
+
+
+    // extra
+    
 }
 
 void loop() {
